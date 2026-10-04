@@ -1,6 +1,10 @@
 # C Programming Portfolio
 
-A structured collection of C programming exercises and implementations developed through hands-on practice.
+A structured collection of C programming exercises, problem-solving implementations, and programming fundamentals developed through hands-on practice.
+
+## Repository Overview
+
+This repository documents my progression in C programming through practical exercises covering fundamentals, control flow, problem solving, memory concepts, and systems-oriented programming.
 
 ## Topics
 
@@ -9,15 +13,28 @@ A structured collection of C programming exercises and implementations developed
 
 ## Repository Statistics
 
-- C source files: **56**
-- Main categories: **2**
+- **C source files:** 56
+- **Main categories:** 2
 
-## Focus Areas
+## Core Areas
 
 - C programming fundamentals
+- Control flow
 - Problem solving
-- Control structures
 - Functions
+- Arrays
 - Pointers
-- Data structures
+- Memory concepts
+- Number manipulation
 - Embedded C foundations
+
+## Development Environment
+
+- Linux
+- GCC
+- Git
+- GitHub
+
+## Documentation
+
+Each major section contains its own README describing the programs and concepts covered.
