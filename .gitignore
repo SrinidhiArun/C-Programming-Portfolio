@@ -1,0 +1,21 @@
+# Compiled C programs
+a.out
+*.out
+
+# Compiled executables without extensions
+comma
+size
+interchange
+1
+
+# Vim temporary files
+*.swp
+*.swo
+*~
+
+# Object files
+*.o
+
+# Debug/build directories
+build/
+bin/
